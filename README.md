@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **synesthesia/synesthesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/synesthesia/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/synesthesia/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/synesthesia/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/synesthesia/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+Stats generated with [jstrieb/githubstats](https://github.com/jstrieb/github-stats)
